@@ -1,0 +1,4 @@
+
+Capítulo 3:
+    3.1 - Primeiro executaremos a sauda2() e depois terminaremos a função sauda()
+    3.2 - Ficará empilhando chamadas na pilha infinitamente até que se esgote a memória do computador
