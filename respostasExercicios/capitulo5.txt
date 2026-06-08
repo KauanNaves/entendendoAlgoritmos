@@ -1,0 +1,8 @@
+Capítulo 5:
+    5.1 - Consistente, sempre retornará 1. 
+    5.2 - Não é consistente, irá retornar um número aleatório para cada entrada, mesmo que sejam entradas iguais.
+    5.3 - Não é consistente, retornará diferentes números em caso de entradas iguais.
+    5.4 - Consistente, retornará números iguais para entradas diferentes.
+    5.5 - Função D, terá uma melhor distribuição
+    5.6 - Função B, já que todas Strings possuem diferentes tamanhos
+    5.7 - Função D
