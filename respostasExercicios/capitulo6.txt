@@ -1,0 +1,18 @@
+Capítulo 6:
+    6.1 - O menor caminho será por cima, com 2 etapas necessárias
+    
+    6.2 - Jato - Gato - Gado
+    
+    6.3 - A - Inválida
+          B - Válida
+          C - Inválida
+    
+    6.4 - 1 - Acordar
+          2 - Praticar Exercício
+          3 - Tomar Banho
+          4 - Escovar os Dentes
+          5 - Trocar de Roupa
+          6 - Embrulhar o Lanche
+          7 - Tomar Café da Manhã
+    
+    6.5 - A e C também são árvores

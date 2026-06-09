@@ -1,10 +1,17 @@
 Capítulo 4:
     4.1 - Código escrito em ../exemplosDeCodigos/divirParaConquistar
+    
     4.2 - Código escrito em ../exemplosDeCodigos/divirParaConquistar
+    
     4.3 - Código escrito em ../exemplosDeCodigos/divirParaConquistar
+    
     4.4 - Casos-base: se o elemento for igual ao buscado, retorne o elemento atual e termine a busca.
           Casos-recursivos: se o elemento for maior que o buscado, busca na metade da direita da lista, ou se não, busque na metade da esquerda da lista.
+    
     4.5 - O(n) 
+    
     4.6 - O(n)
+    
     4.7 - O(1)
+    
     4.8 - O(n²)

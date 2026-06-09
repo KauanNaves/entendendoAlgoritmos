@@ -1,8 +1,12 @@
 Capítulo 1:
     1.1 - log128 - Serão necessários no máximo 7 passos
+    
     1.2 - No máximo 8 etapas
 
     1.3 - O(log n)
+    
     1.4 - O(n)
+    
     1.5 - O(n)
+    
     1.6 - O(n)

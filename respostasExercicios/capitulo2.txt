@@ -1,6 +1,10 @@
 Capítulo 2:
     2.1 - Lista Encadeada, devido ao tempo de inserção ser CONSTANTE
+   
     2.2 - Lista Encadeada, já que faremos muitas inserções e não precisaríamos de acesso aleatório.
+   
     2.3 - Array, já que Listas Encadeadas não permitem acesso aleatório
+   
     2.4 - A inserção no Array tem um tempo de execução de O(n) e sempre que fosse preciso inserir um usuário, teríamos que mover todo os outros usuários para um novo lugar na memória. 
+   
     2.5 - Comparando inserções nesta estrutura híbrida com Arrays, seria mais rápido, pois não é necessário mover nenhum item para um local novo. Eliminações seria mais lento, mesmo que temos acesso aleatório, ainda teríamos de ler nome por nome da lista encadeada.
